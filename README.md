@@ -9,7 +9,8 @@ Mi pagina web trata sobre los fichajes de ultima hora en el mercado Invernal de 
 
 En mi pagina web tenemos varios paises en los cuales podras ver fichajes de ultima hora, fichaje mas relevante, fichaje mas caro, fichaje mas inesperado y por ultimo los fichajes mas locos en cuanto a dinero, a sido un mercado invernal bastante movido con fichajes surrealistas pero todos los tenemos aqui
 
- ## Tenemos La Liga Española, La MLS y por ultimo la Premier League
+ ### Tenemos La Liga Española, La MLS y por ultimo la Premier League
+ #### Hay muchos fichajes de todas las ligas nombradas
 
 # Nuestro Periodista Deportivo:
 
@@ -22,3 +23,6 @@ Fabrizio Romano, el mejor en su trabajo, la persona responsable que se sepan los
 ### Español
 ### Inglés  
 ### Portuges
+
+# Editor utilizado:
+He usado el editor clasico de Wordpress
